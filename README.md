@@ -2,6 +2,6 @@
 - 👀 I’m interested in Software development/engineering and Cybersecurity
 - 🌱 I’m currently working on imporving my knowledge of Concepts of Computer Science and Cybersecurity
 - 📫 best to reach me by email at johnisennock@gmail.com
-- I have expirence programming in C, C++, C#, Java, JavaScript, and Python. With a majority of my experince being in C and Java.
+- I have expirence programming in C, C++, Java, JavaScript, and Python. With a majority of my experince being in C and Java.
 - I will be graduating with my BS in Infomation Technology at the start of August 2021 from UCF
 - I am planning on starting either a MS in Computer Science or Cybersecurity in the next five years
